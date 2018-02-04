@@ -1,7 +1,7 @@
 # freepascal-telegram-links
 Useful links about freepascal in telegram etc
 
-Please suggest me other links and lib usefull for telegram in FreePascal/Lazarus and FreePascal in telegram!
+Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for telegram in FreePascal/Lazarus and FreePascal in telegram!
 
 ## Public telegram groups
 - English
