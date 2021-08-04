@@ -13,7 +13,7 @@ Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for 
 - Spannish
   - [Freepascal, lazarus IDE & components @lazarusfpc](https://t.me/lazarusfpc)
   - [RAD IDE Lazarus México](https://t.me/LazarusMX)
-
+  - [Grupo dedicado a la programación en delphi](https://t.me/pascalang)
 - Library/Component specific
   - [Brook frameworks (brookframework & Brook4FreePascal)](https://t.me/brookframework)
   - [PascalSCADA EN - PtBR](https://t.me/pascalscada)
