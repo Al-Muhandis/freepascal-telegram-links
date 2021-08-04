@@ -6,6 +6,8 @@ Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for 
 ## Public telegram groups
 - English
   - [FreePascal and Lazarus IDE telegram group @freepascal_en](https://t.me/freepascal_en)
+- Portuguese Brazil
+  - [Lazarus BR](https://t.me/LazarusBR)
 - Russian
   - [Лазарус и Дельфи телеграм группа @Delphi_Lazarus](https://t.me/Delphi_Lazarus)
 - Spannish
@@ -14,6 +16,8 @@ Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for 
 
 - Library/Component specific
   - [Brook frameworks (brookframework & Brook4FreePascal)](https://t.me/brookframework)
+  - [PascalSCADA EN - PtBR](https://t.me/pascalscada)
+
 ## Telegram channels
 - English
   - [Free Pascal and Lazarus IDE news channels @free_pascal](https://t.me/free_pascal)
