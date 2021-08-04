@@ -10,6 +10,7 @@ Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for 
   - [Лазарус и Дельфи телеграм группа @Delphi_Lazarus](https://t.me/Delphi_Lazarus)
 - Spannish
   - [Freepascal, lazarus IDE & components @lazarusfpc](https://t.me/lazarusfpc)
+  - [RAD IDE Lazarus México](https://t.me/LazarusMX)
 
 - Library/Component specific
   - [Brook frameworks (brookframework & Brook4FreePascal)](https://t.me/brookframework)
