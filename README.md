@@ -17,6 +17,7 @@ Please suggest [us](https://t.me/freepascal_en) other links and lib usefull for 
 - Library/Component specific
   - [Brook frameworks (brookframework & Brook4FreePascal)](https://t.me/brookframework)
   - [PascalSCADA EN - PtBR](https://t.me/pascalscada)
+  - [fp-telegram library support group](https://t.me/fptelegram)
 
 ## Telegram channels
 - English
